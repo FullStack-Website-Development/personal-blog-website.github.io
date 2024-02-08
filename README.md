@@ -1,6 +1,6 @@
 PERSONAL BLOG WEBSITE
 
-Live Demo:
+Live Demo: https://mahn-bonnie.github.io/personal-blog-website.github.io/
 
 Inspired by the ability to develop and pass info by oneself
 
